@@ -1,6 +1,2 @@
-config.py
-
-.ipynb_checkpoints
-__pycache__
-
-*.csv
+.DS_Store
+*/DS_Store
