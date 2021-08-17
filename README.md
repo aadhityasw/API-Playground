@@ -1,5 +1,7 @@
 # API Playground
 
+[![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
+
 This Repository contains the scripts that can be used to access and use API's provided by various web services.
 
 
