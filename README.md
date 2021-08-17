@@ -10,3 +10,5 @@ This Repository contains the scripts that can be used to access and use API's pr
 1. [Spotify API](./Spotify)
 
 2. [COWIN API](./COWIN)
+
+3. [Twitter API](./Twitter)
